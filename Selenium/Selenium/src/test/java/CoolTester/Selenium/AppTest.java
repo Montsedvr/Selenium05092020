@@ -9,12 +9,24 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import org.junit.Test;
+import static org.junit.Assert.assertTrue;
+import org.testng.annotations.test;
+
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
+    /**
+    * Rigorous Test :-)
+    */
+    @Test
+    Public void shoulAnswerWithTrue)=()
+    {
+        assertTrue (false);
+        }
+        
     public static void main ( String []args)
  
     {
